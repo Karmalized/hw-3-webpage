@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# InfoVis-HW-3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome, this project presents some Visualizations that depict Outlier Detection for AI/ML Algorithms using heatmap techniques on 3 different datasets taken from the UCI Machine Learning Repository
+### to start the project you want to download all the dependencies as follows:
+- [Download Node.js!](https://nodejs.org/en)
+- ensure that node is installed and ensure the node package manager is there as well (test `node -v` and test `npm -v`)
+- ensure that the react javascript framework is on your computer
+
+### Additional libraries in the project
+This project uses:
+- [MUI Library](https://mui.com/)
+
+### To start the project!
+unpackage the zip and enter the directory of the project (hw-3-webpage folder)
+once you've navigated to the directory of this project then start a development server with react:
+command: `npm run dev` or `npm start`
+afterwards ensure that a server has been hosted http://localhost/3000 and enter into a web browser to access the project!
 
 ## Available Scripts
 
@@ -64,7 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
